@@ -1,0 +1,21 @@
+[
+    {
+        "identify": "cate_15c32fb2",
+        "name": "Keypad_FR",
+        "menuIconURI": {
+            "name": "categoryIcon.svg",
+            "url": "https://mblock-expanded.oss-cn-shenzhen.aliyuncs.com/01417b31dd6e459c896572194968b06d.svg"
+        },
+        "blockIcon": {
+            "name": "blockIcon.svg",
+            "url": "https://mblock-expanded.oss-cn-shenzhen.aliyuncs.com/6c79e23836f445e8a35418fbee1512b2.svg"
+        },
+        "colors": "#7ED321",
+        "eid": "24567",
+        "id": "41544",
+        "sort": 999,
+        "create_time": 1681697944,
+        "modify_time": 1682531520,
+        "uid": 1930592
+    }
+]

@@ -1,0 +1,91 @@
+{
+    "id": "ext_keypadfr",
+    "iconURL": "ext_keypadfr/imgs/07fd3ef007774bff8d0562633befd5bb.jpg",
+    "coverURL": "./res/07fd3ef007774bff8d0562633befd5bb.jpg",
+    "name": {
+        "zh": "Keypad_FR",
+        "de": "Keypad_FR",
+        "es": "Keypad_FR",
+        "fr": "Keypad_FR",
+        "id": "Keypad_FR",
+        "ja": "Keypad_FR",
+        "ja-jph": "Keypad_FR",
+        "ko": "Keypad_FR",
+        "pl": "Keypad_FR",
+        "uk": "Keypad_FR",
+        "zh-hant": "Keypad_FR",
+        "nl": "Keypad_FR",
+        "it": "Keypad_FR",
+        "hr": "Keypad_FR",
+        "ru": "Keypad_FR",
+        "pt": "Keypad_FR",
+        "fi": "Keypad_FR",
+        "tr": "Keypad_FR",
+        "tk": "Keypad_FR",
+        "en": "Keypad_FR"
+    },
+    "description": {
+        "zh": "",
+        "de": "",
+        "es": "",
+        "fr": "",
+        "id": "",
+        "ja": "",
+        "ja-jph": "",
+        "ko": "",
+        "pl": "",
+        "uk": "",
+        "zh-hant": "",
+        "nl": "",
+        "it": "",
+        "hr": "",
+        "ru": "",
+        "pt": "",
+        "fi": "",
+        "tr": "",
+        "tk": "",
+        "en": ""
+    },
+    "targets": [
+        "arduino_lala",
+        "arduino_leonardo",
+        "arduino_mega",
+        "arduino_mega2560",
+        "arduino_mega_mechatronics",
+        "arduino_micro",
+        "arduino_nano",
+        "arduino_nano_old",
+        "arduino_rich",
+        "arduino_uno",
+        "arduino_uno_chao",
+        "arduino_uno_goco",
+        "arduino_uno_goco_blynk",
+        "arduino_uno_lcd_dht11_ir_relay_sheild",
+        "arduino_uno_mechatronics",
+        "arduino_uno_omrs",
+        "arduino_uno_r3",
+        "arduino_yun",
+        "rp_arduino_uno",
+        "thd_arduino_uno"
+    ],
+    "main": "ext_keypadfr/index.js",
+    "codeTypes": [
+        "arduinoc"
+    ],
+    "device": false,
+    "sortId": 999,
+    "version": "0.0.1",
+    "extApiVersion": [
+        "1.0.0",
+        "1.0.1",
+        "1.0.2"
+    ],
+    "platform": [
+        "mblockpc",
+        "mblockweb"
+    ],
+    "homepage": "http://www.mblock.cc/api-docs/_preview/mblock-5/zh/use-extensions/use-extensions.html",
+    "feature": [
+        "worker"
+    ]
+}
